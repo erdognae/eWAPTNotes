@@ -1,1 +1,1 @@
-.md formatında INE eMAPT kapsamlı notlar. Obsidian ya da Notion üzerinden  eWPT(X) Note's.md açılark düzgün bir çıktı sağlanabilir.
+.md formatında INE eWAPT, eWAPTX notlarım. Obsidian ya da Notion üzerinden  eWPT(X) Note's.md açılarak düzgün bir çıktı sağlanabilir.
